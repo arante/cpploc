@@ -1,11 +1,11 @@
-#include <iostream>
-
 /* fig18_01.cpp
  * Addition of two integers.
  *
  * Written by Billy Wilson Arante <arantebillywilson@gmail.com>
  * Last updated on 2017/12/18 PHT
  */
+
+#include <iostream>
 
 int main() {
         int number1;
